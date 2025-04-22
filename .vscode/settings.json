@@ -1,0 +1,17 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "Hello",
+            "database": "${workspaceFolder:MuscleCare}/backend/db.sqlite3"
+        },
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "database": "${workspaceFolder:MuscleCare}/backend/Databases/db.sqlite3",
+            "name": "Hello2"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}

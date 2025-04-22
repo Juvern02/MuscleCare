@@ -1,0 +1,274 @@
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App {
+  text-align: center;
+}
+
+.App-Header {
+  background-color: #0097a7ff;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  width: 100vw;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.App-SideBar {
+  background-color: #efefef;
+  height: 100%;
+  width: 40%;
+}
+
+.MainPage {
+  background-color: rgb(0, 133, 137);
+  height: 100vh;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.MainPage-Header {
+  background-color: rgb(0, 133, 137);
+  color: #fff;
+  padding: 10px;
+  text-align: left;
+}
+
+.ExercisePage{
+  background-color: rgb(0, 133, 137);
+  height: auto;
+  min-height: 94vh;
+  justify-content: left;
+  margin-top: 6vh;
+}
+
+.exerciseInfo{
+  margin-left: 1.6vh;
+}
+
+.exerciseInfo p{
+  color: #efefef;
+}
+
+.exerciseInfo h2{
+  color: #efefef;
+}
+
+.Menu-Header a {
+  font-family: 'roboto', sans-serif;
+  font-size: calc(25px + 2vmin);
+}
+
+.MaleModel {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  position: relative;
+  top: -30vh;
+}
+
+.outline {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  position: relative;
+  top: -6vw;
+  left: 8vw;
+  width: 80%;
+}
+
+.MaleModel img {
+  position: absolute;
+}
+
+.Menu-Header a {
+  font-family: 'roboto', sans-serif;
+  font-size: calc(25px + 2vmin);
+}
+
+.leftAbs {
+  height: 19.5vh;
+  top: 12.9vh;
+  left: 0px;
+  z-index: 1;
+}
+
+.leftBicep {
+  height: 12.4vh;
+  top: 5.5vh;
+  left: 14.1vh;
+  z-index: 1;
+}
+
+.leftChest {
+  height: 11.9vh;
+  top: 0.5vh;
+  left: 0.85vh;
+  z-index: 2;
+}
+
+.leftForearm {
+  height: 13.8vh;
+  top: 17vh;
+  left: 15vh;
+  z-index: 1;
+}
+
+.leftLowerLeg {
+  top: 50.4vh;
+  left: 0.7px;
+  height: 17.99vh;
+  z-index: 1;
+}
+
+.leftOuterAbs {
+  top: 7vh;
+  left: 6.5vh;
+  height: 21vh;
+  z-index: 1;
+}
+
+.leftQuads {
+  top: 27.5vh;
+  left: 0.7vh;
+  height: 22.4vh;
+  z-index: 1;
+}
+
+.leftShoulder {
+  height: 8.5vh;
+  top: 0.3vh;
+  left: 9vh;
+  z-index: 1;
+}
+
+.leftOutline{
+  top: -5vh;
+  height: 80vh;
+  left: 0px;
+  z-index: 0;
+}
+
+.rightAbs {
+  height: 19.5vh;
+  top: 12.9vh;
+  right: 0px;
+  z-index: 1;
+}
+
+.rightBicep {
+  height: 12.4vh;
+  top: 5.5vh;
+  right: 14.1vh;
+  z-index: 1;
+}
+
+.rightChest {
+  height: 11.9vh;
+  top: 0.5vh;
+  right: 6px;
+  z-index: 2;
+}
+
+.rightForearm {
+  height: 13.8vh;
+  top: 17vh;
+  right: 15vh;
+  z-index: 1;
+}
+
+.rightLowerLeg {
+  top: 50.4vh;
+  right: 0.7px;
+  height: 17.99vh;
+  z-index: 1;
+}
+
+.rightOuterAbs {
+  top: 7vh;
+  right: 6.5vh;
+  height: 21vh;
+  z-index: 1;
+}
+
+.rightQuads {
+  top: 27.5vh;
+  right: 0.7vh;
+  height: 22.4vh;
+  z-index: 1;
+}
+
+.rightShoulder {
+  height: 8.5vh;
+  top: 0.3vh;
+  right: 9vh;
+  z-index: 1;
+}
+
+.rightOutline{
+  top: -5vh;
+  height: 80vh;
+  width: auto;
+  right: 0px;
+  z-index: 0;
+}
+
+.Profile-Image {
+  height: 100%;
+  width: 5vh;
+}
+
+.Profile-Picture {
+  margin-left: auto;
+  padding: 15px;
+}
+
+.SideBar {
+  background-color: #efefef;
+  height: 100vh;
+  width: 45vw;
+}
+
+.Drawer{
+  justify-content: center;
+}
+
+nav {
+  display: flex;
+  height: 40px;
+  justify-content: space-between;
+  width: 100vw;
+}
+
+nav a {
+  color: #efefef;
+  padding: 0 0.5rem;
+  text-decoration: none;
+}
+
+p {
+  font-family: 'roboto', sans-serif;
+}
+
+#DrawerListHeader {
+  text-align: center;
+  font-size: 1.15rem;
+  color: rgb(0, 167, 145);
+  margin-top: -1.1vh;
+  margin-bottom: -0vh;
+}
+
+#DrawerListBox{
+  margin-bottom: 1vh;
+}
+
+.item:not(:last-child) {
+  margin-bottom: 8px;
+}

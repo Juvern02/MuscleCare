@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "musclecare-420821",
+  "private_key_id": "930fc5d671444c6e8e67659cedd7b53c64589033",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCwdUiZFS7T4vBF\nJJ5vqqp4SjtSOgAVFkwe280X7BDEyB2dxB1xjv/Gd3IhpdhgKRRns/Sy883Jc0CB\n8wWLE9juNrhUBa51ZgIDJDIPlD9NiFVZ8QRHajy4tOyP3+jK0SZywaoAorcczFok\n14GNAivjYPPFaweG5B2+/JzFTq/IcF5QrwKPabp9N28hKEF4oPFsEZo6ADXqMr9l\nPCu75F1nCIxejl4IPZaIdfrH6UMNpNtzLfypG1ItzpdV7JM/FBWgOI7M0lpZVLVT\n0jUwuVtAcNl4C9EFWhDDRk8RnUcfNwiczqso5tPw31FMko2Loc3tcpHUdubmcWSm\npIUOz7q3AgMBAAECggEAIsAuOGuaCcNvEwbXpuEi6kagMRzYCE8YVZlu5g+o68AH\nSRsmu0bwqzq5wNOi7akZaiTgA2ANPmeSpCTiihWyCpO/MFjgFyGsMsctjrDg2JmJ\nSYm0EIZlB/Elh14Ov+Z5nm7yVma1DhhWhlvkmQr87q4Yw9/EnzWMgCDKlPbemmfm\n2GKg1l7xQu04NYWDcmfaSK6SPXltWRJv/gjG7EzQqAM1q3dogbDnMVMvCNNOiryu\nUg6pDNvxMFRyZlD+GP1xk3aKt65GWrE7ItLoGeuZyGFOGciyoqAC4WHN4P3Y1tjn\nwjQRKPNuFlyFjt1NQFbx2al6gs/jydDjB6iuAO2k6QKBgQDj2Xf4wrFa4NEcwBu4\nPyIyKatKCm5S62wMWKLCzYgy1/oj0f8aE578qWiwnnwt1C9u8Oxq1cCWY5nXmjs/\n/jxbWh7hDpt6hI2T4sO/v5GnOZIEm7bw9zh+C+0lnTwHgOmkuiumj1a91chjWVa0\n0tDthdCWxbRgTPsj9lt5dnqR+QKBgQDGQmKU32Ed6QM7yEQGZQ6B1vdoVYA8sulj\ntbyRdlqPe4gK7zea+DYh8c7ubMdk5pBeV4gwnTH4xF8zfqcXkfoPhsAC2bc3PpiA\nhPrX7RHuKduKDSO0uCTGvtUTYeEZH/BVE4sZhn/pAVd0SOJKFfyea/NCzgzdgJXc\n3kS/b8HeLwKBgQDN3dmmK9MvN135SiJBkNmG1VtspIwV45xWc2dr92SN+9KItt51\nYzENPMvYePneNo88//W8ebFusEN6KGJMaZuDNqQb2KTmSAnbitIu2Bn0K/Igs8jR\nY63pRUFZ8P0iEnoIWiXCclR/ZT+PdFMBQlF/qp5S/AMD18o6LgdscX5BkQKBgCRE\nvq4HU0faeZn1H+SflhDQl4ABrCzued2gwHdH1HdNHO0LJ/v0jkqVZsqdIbjmqOBp\nWOOzzhF5MwVDlSOts7Yla3jaBTdY/yL7sLvRhacxBxVxI+gKi8fD30zlaf1jp16Y\n7ahkv3+LnEkMkEEHVqhQjTbaZOYcgM3f52mx8yBHAoGAM/rG7QOBpcOhAPNYeDvU\nSdUbvrgNzGjHb8C5xYeo0jxehe0opdT09TcYgHQCuLszWd73H01KXmv4vnNB4Xxd\nY2G9Z4xR8A8mI5ICIGj5F3QrMV3yq7WhJljE++qLsQjbacVOHceS+VTgNI1ZEK0u\nIaQfuS5MWEZc9GUo5FEmAaw=\n-----END PRIVATE KEY-----\n",
+  "client_email": "musclecareaccount@musclecare-420821.iam.gserviceaccount.com",
+  "client_id": "105883589421113799054",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/musclecareaccount%40musclecare-420821.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
